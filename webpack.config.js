@@ -60,6 +60,9 @@ Encore
         useBuiltIns: 'usage',
         corejs: 3
     })
+
+    // enables Sass/SCSS support
+    Encore.enableSassLoader()
 ;
     
 module.exports = Encore.getWebpackConfig();
