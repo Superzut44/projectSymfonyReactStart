@@ -11,7 +11,7 @@
 
 1. Clone this project
 2. Run `composer install`
-3. Run `composer require symfony/webpack-encore-bundle`
+3. Run `composer require symfony/webpack-encore-bundle` to start using Symfony UX
 4. Run `composer update`
 5. Run `npm install` for deploy
 5. Run `yarn install`
