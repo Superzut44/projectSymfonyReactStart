@@ -11,8 +11,9 @@
 
 1. Clone this project
 2. Run `composer install`
-3. Run `composer install`
-4. Run `composer install`
+3. Run `composer require symfony/webpack-encore-bundle`
+4. Run `composer update`
+5. Run `npm install` for deploy
 5. Run `yarn install`
 6. Run `yarn encore dev` to build assets
 
